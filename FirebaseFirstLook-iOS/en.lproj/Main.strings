@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "This is a limited time offer! Click Buy Now!"; ObjectID = "1tD-a9-O9p"; */
+"1tD-a9-O9p.text" = "This is a limited time offer! Click Buy Now!";
+
+/* Class = "UIButton"; normalTitle = "Sale On Now!"; ObjectID = "5OB-9i-Dfq"; */
+"5OB-9i-Dfq.normalTitle" = "Sale On Now!";
+
+/* Class = "UITextField"; text = "(status)"; ObjectID = "Dj2-kd-cV5"; */
+"Dj2-kd-cV5.text" = "(status)";
+
+/* Class = "UILabel"; text = "Promotional Sale on Now!"; ObjectID = "G4S-aT-65o"; */
+"G4S-aT-65o.text" = "Promotional Sale on Now!";
+
+/* Class = "UIButton"; normalTitle = "Create User"; ObjectID = "N3R-qI-fBm"; */
+"N3R-qI-fBm.normalTitle" = "Create User";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Ocp-4s-xKW"; */
+"Ocp-4s-xKW.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "SAH-3J-oYa"; */
+"SAH-3J-oYa.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Buy!"; ObjectID = "U0d-20-BdJ"; */
+"U0d-20-BdJ.normalTitle" = "Buy!";
+
+/* Class = "UIButton"; normalTitle = "Button 1"; ObjectID = "VC4-uh-YgN"; */
+"VC4-uh-YgN.normalTitle" = "Button 1";
+
+/* Class = "UIViewController"; title = "Firebase Authentication"; ObjectID = "dLC-TQ-K8s"; */
+"dLC-TQ-K8s.title" = "Firebase Authentication";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "deN-97-dPQ"; */
+"deN-97-dPQ.text" = "Password";
+
+/* Class = "UINavigationItem"; title = "Firebase First Look - iOS"; ObjectID = "lJ2-d8-vXX"; */
+"lJ2-d8-vXX.title" = "Firebase First Look - iOS";
+
+/* Class = "UIButton"; normalTitle = "Button 2"; ObjectID = "o2n-Kf-2KI"; */
+"o2n-Kf-2KI.normalTitle" = "Button 2";
+
+/* Class = "UIViewController"; title = "Sample Ecommerce Screen"; ObjectID = "pqo-Ov-40d"; */
+"pqo-Ov-40d.title" = "Sample Ecommerce Screen";
+
+/* Class = "UIButton"; normalTitle = "Sign Up / Log In"; ObjectID = "tYG-HS-B4a"; */
+"tYG-HS-B4a.normalTitle" = "Sign Up / Log In";
+
+/* Class = "UIButton"; normalTitle = "Sign Out"; ObjectID = "xnB-zN-ggh"; */
+"xnB-zN-ggh.normalTitle" = "Sign Out";
